@@ -1,1 +1,1 @@
-audio-player: https://Kham999.github.io/master/audio-player
+audio-player: https://Kham999.github.io/master/audio-player-js30
